@@ -24,7 +24,7 @@ Before running the code, ensure you have the following:
    ```bash
    git clone https://github.com/your-username/course-recommendation-system.git
    cd course-recommendation-system
-bash```
+   ```
 2. **Install Required Packages**: 
 Create a requirements.txt file if not provided, and install the dependencies:
 ```bash
