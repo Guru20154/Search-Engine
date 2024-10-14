@@ -1,7 +1,7 @@
 # Course Recommendation System
 
 This project is a course recommendation system that uses OpenAI embeddings and cosine similarity to recommend courses based on user queries. The system leverages precomputed course embeddings and matches user queries to these embeddings to find the most relevant courses.
-To see its working: [HuggingfaceSpace]([https://huggingface.co/spaces/Guru20154/Search_Engine]).
+To see its working: [Huggingface Space](https://huggingface.co/spaces/Guru20154/Search_Engine).
 
 ## Features
 
