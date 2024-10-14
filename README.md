@@ -26,25 +26,25 @@ Before running the code, ensure you have the following:
    cd course-recommendation-system
    ```
 2. **Install Required Packages**: 
-Create a requirements.txt file if not provided, and install the dependencies:
-```bash
-   pip install -r requirements.txt
-```
-requirements.txt content:
-```txt
-numpy
-pandas
-scikit-learn
-openai
-streamlit
-requests
-beautifulsoup4
-```
+   Create a requirements.txt file if not provided, and install the dependencies:
+   ```bash
+      pip install -r requirements.txt
+   ```
+   requirements.txt content:
+   ```txt
+   numpy
+   pandas
+   scikit-learn
+   openai
+   streamlit
+   requests
+   beautifulsoup4
+   ```
 
 3. Add OpenAI API Key: Ensure your OpenAI API key is set as an environment variable:
-```bash
-export API=<your-openai-api-key>
-```
+   ```bash
+   export API=<your-openai-api-key>
+   ```
 
 ## Usage
 1. **Run the Streamlit Application**:
