@@ -48,9 +48,9 @@ Before running the code, ensure you have the following:
 
 ## Usage
 1. **Run the Streamlit Application**:
-```bash
-streamlit run app.py
-```
+   ```bash
+   streamlit run app.py
+   ```
 2. **Enter a Query**: When prompted, enter a query describing the type of courses you are looking for.
 3. **View Recommended Courses**: The application will display the top 5 courses that match your query with a similarity score above 0.8.
 
